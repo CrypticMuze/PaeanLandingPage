@@ -174,12 +174,12 @@ pre {
 /* Cli */
 .cli .grid {
   grid-template-columns: repeat(3, 1fr);
-  grid-template-rows: repeat(2, 1fr);
+  grid-template-rows: repeat(4, 1fr);
 }
 
 .cli .grid > *:first-child {
   grid-column: 1 / span 2;
-  grid-row: 1 / span 2;
+  grid-row: 1 / span 4;
 }
 
 /* Cloud */
