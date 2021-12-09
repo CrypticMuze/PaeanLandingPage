@@ -1,8 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap');
 
 :root {
-  --primary-color: #C360FF;
-  --secondary-color: #A81AFF;
+  --primary-color: #9025d3;
+  --secondary-color: #7410b3;
   --dark-color: #2c0049;
   --light-color: #f4f4f4;
   --success-color: #5cb85c;
@@ -222,6 +222,14 @@ pre {
 
 .features-main .card > i {
   margin-right: 20px;
+}
+
+.features-main .card {
+  transition: transform 0.2s ease-in;
+}
+
+.features-main .card:hover {
+  transform: translateY(15px);
 }
 
 .features-main .grid {
