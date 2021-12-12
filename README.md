@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/CrypticMuze/PaeanLandingPage/blob/master/images/paean_media/LogoFinal2.png" alt="PaeanLogo" height=200px width=500px/>
+<img src="https://github.com/CrypticMuze/PaeanLandingPage/blob/master/images/paean_media/LogoFinal2.png" alt="PaeanLogo" height=200px width=400px/>
 </p>
 
 # Paean Website Landing Page
